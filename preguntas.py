@@ -50,6 +50,7 @@ def pregunta_02():
     ]
 
     """
+    
     from operator import itemgetter
     with open("data.csv", "r") as file:
         data = file.readlines()
